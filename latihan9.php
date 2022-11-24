@@ -1,0 +1,7 @@
+<?php
+
+$siswa = [
+    ["hifal"=>"PPLG",]
+]
+
+?>
