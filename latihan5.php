@@ -2,7 +2,7 @@
 
 $nama = ["M.HIFALLUSSALAM"];
 $kelas = ["XII RPL 1"];
-$Alamat = ["Samborejo Mijen"];
+$Alamat = ["Samborejo"];
 
 ?>
 
